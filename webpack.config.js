@@ -5,6 +5,7 @@ module.exports = {
     horace: './index.js'
   },
   output: {
+    path: 'dist',
     filename: 'horace.js'
   },
   module: {
