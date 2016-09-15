@@ -19,6 +19,6 @@
   "homepage": "https://github.com/ronichoudhury-work/horace#readme",
   "devDependencies": {
     "webpack": "^1.13.2",
-    "webpack-borges": "git+https://github.com/ronichoudhury-work/borges.git"
+    "borges": "git+https://github.com/ronichoudhury-work/borges.git"
   }
 }
